@@ -7,6 +7,7 @@ Group:		Libraries
 URL:		https://github.com/isaacs/uid-number
 Source0:	http://registry.npmjs.org/uid-number/-/uid-number-%{version}.tgz
 # Source0-md5:	812a94e5b2d21210255d86bf10e7d46f
+BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
