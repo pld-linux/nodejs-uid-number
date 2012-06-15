@@ -3,7 +3,7 @@ Name:		nodejs-uid-number
 Version:	0.0.3
 Release:	1
 License:	MIT
-Group:		Libraries
+Group:		Development/Libraries
 URL:		https://github.com/isaacs/uid-number
 Source0:	http://registry.npmjs.org/uid-number/-/uid-number-%{version}.tgz
 # Source0-md5:	812a94e5b2d21210255d86bf10e7d46f
