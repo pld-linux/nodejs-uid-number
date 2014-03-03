@@ -1,12 +1,12 @@
 Summary:	Convert a username/group name to a UID/GID number
 Name:		nodejs-uid-number
-Version:	0.0.3
+Version:	0.0.5
 Release:	1
-License:	MIT
+License:	ISC
 Group:		Development/Libraries
 URL:		https://github.com/isaacs/uid-number
 Source0:	http://registry.npmjs.org/uid-number/-/uid-number-%{version}.tgz
-# Source0-md5:	812a94e5b2d21210255d86bf10e7d46f
+# Source0-md5:	0fd62d3dae10069c234338fd1ffd0887
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
